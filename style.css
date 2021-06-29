@@ -1,0 +1,101 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+
+.First{
+    background-image: url(../img/milky-way.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+ .Second{ 
+    background-image: url(../img/andromeda.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size: cover;
+
+}
+.Third{
+    background-image: url(../img/cartwheel.jpg); 
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.Fourth{
+    background: url(../img/antennae.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+.Fifth{
+    background: url(../img/black-eye.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+.Sixth{
+    background: url(../img/cigar.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+.Seventh{
+    background: url(../img/magellanic.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+.Eighth{
+    background: url(../img/merging.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+.Nineth{
+    background: url(../img/meiser-81.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+.Tenth{
+    background: url(../img/elliptical.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+.Eleventh{
+    background: url(../img/spiral.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+.Twelfth{
+    background: url(../img/nearby.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
+
+
+
+.flex-prop{
+    opacity:0.9;
+    height:1750px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.para{
+     background:scroll;
+    text-align: center;
+    font-size: 5rem;
+    padding: 2% 2%;
+    margin: 2% 2%;
+    width:100vw;
+    background-color: rgba(51, 50, 50, 0.7);
+}
+body .heading{
+    margin:0px;
+    padding: 50px 0px;
+    width:100vw;
+    background-color: rgba(51, 50, 50, 0.95); 
+    text-align: center;
+    font-size: 10rem;
+}
+
+.flex-prop .heading{
+    width:100vw;
+    background-color: rgba(51, 50, 50, 0.7); 
+    text-align: center;
+    font-size: 10rem;
+}
